@@ -1,14 +1,15 @@
 
-# NFTs Anotações  :page_with_curl:
+# NFTs Anotações ✍️
+ 
 
-### que é um NFT :grey_question:
+### que é um NFT 🤔:grey_question:
 Uma NFT (Non-Fungible Token) é um tipo de token criptográfico que representa a propriedade única ou a posse de um ativo digital específico. Ao contrário das criptomoedas como o Bitcoin, que são fungíveis (intercambiáveis), as NFTs são indivisíveis e cada uma possui um valor único.
 Uma das características mais importantes das NFTs é que elas permitem que os criadores monetizem seus trabalhos digitais, pois cada NFT pode ser comprada, vendida ou leiloada no mercado digital. Além disso, como as NFTs são armazenadas na blockchain, é possível verificar a autenticidade e a procedência de um determinado ativo digital, o que pode ser valioso para colecionadores e investidores.
 Os NFTs são únicos e não são diretamente intercambiáveis por outros ativos de forma equivalente, como acontece com as moedas tradicionais ou as criptomoedas fungíveis, como o Bitcoin. Cada NFT é exclusivo e possui um valor próprio. Os NFTs podem representar uma ampla variedade de ativos digitais verificáveis, como obras de arte digitais, músicas, vídeos, gifs, tweets, colecionáveis virtuais, propriedades virtuais em jogos, entre outros. Eles são armazenados em uma blockchain, geralmente na rede Ethereum, o que garante a autenticidade e a rastreabilidade desses ativos digitais.
 Ao contrário das criptomoedas tradicionais, onde um token é igual a outro e pode ser substituído sem alterar seu valor, os NFTs têm características únicas que os distinguem uns dos outros. Essas características únicas podem incluir informações sobre a autoria, a data de criação, a história de propriedade e outros metadados relevantes.
 Cada NFT possui um registro único em sua blockchain que contém informações detalhadas sobre sua titularidade e histórico de transações, o que permite autenticação e verificação de sua autenticidade.
 
-### Pra que servem os NFTs :grey_question:
+### Pra que servem os NFTs 🤔 :grey_question:
 têm diversas utilidades e finalidades. 
 
 Propriedade digital autêntica: Os NFTs fornecem uma forma de comprovar a autenticidade e a propriedade de ativos digitais. Isso é particularmente relevante para obras de arte digitais, onde os NFTs podem ser usados para estabelecer a autoria e a procedência.
@@ -65,3 +66,11 @@ Os mercados mais famosos para vender NFTs incluem:
 ### NFTs são seguras :lock: :grey_question: 
 os NFTs baseados em blockchain são considerados relativamente seguros devido à natureza descentralizada e imutável da tecnologia blockchain. No entanto, existem alguns aspectos a serem considerados .segurança dos NFTs depende da segurança da sua carteira de criptomoedas. Se a sua carteira não estiver adequadamente protegida, você corre o risco de perder seus NFTs ou ter sua carteira comprometida. É essencial utilizar práticas de segurança robustas, como o uso de senhas fortes, autenticação de dois fatores e manter seu software de carteira atualizado. As plataformas de mercado online que facilitam a compra e venda de NFTs também podem apresentar riscos. É importante escolher plataformas confiáveis e populares que tenham um histórico estabelecido e sejam conhecidas por suas medidas de segurança.
 Embora a tecnologia blockchain ofereça segurança em termos de autenticidade e propriedade dos NFTs, é fundamental tomar medidas  para proteger suas carteiras e façam uma análise cuidadosa antes de realizar transações no mercado de NFTs.
+
+## cuidados que devemos ter ⚠️ 
+:heavy_check_mark: Manter sempre suas chaves privadas e informações de login seguras e protegidas
+
+:heavy_check_mark: Verificar se o valor do NFT é justo de acordo com a realidade em comparação com outros NFTs semelhantes disponiveis no mercado. 
+
+:heavy_check_mark: Verificar sempre a autenticidade do NFT e o historico  do vendedor antes de fazer uma compra, verificar se  já houveram  casos de fraudes e golpes no espaço NFT.
+
